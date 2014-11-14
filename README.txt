@@ -1,7 +1,7 @@
-XStatic-D3
+XStatic-Rickshaw
 --------------
 
-D3 JavaScript library packaged for setuptools (easy_install) / pip.
+Rickshaw JavaScript library packaged for setuptools (easy_install) / pip.
 
 This package is intended to be used by **any** project that needs these files.
 
