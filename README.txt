@@ -1,5 +1,5 @@
 XStatic-Rickshaw
---------------
+----------------
 
 Rickshaw JavaScript library packaged for setuptools (easy_install) / pip.
 
